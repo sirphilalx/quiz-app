@@ -1,0 +1,504 @@
+{
+    "Questions":[
+        {
+            "id":1,
+            "question":"Complete the sentence; So you shall put away guilt of innocent blood from among you when you do _________ (Deuteronomy 21:9)",
+            "answer":"WHAT IS RIGHT IN THE SIGHT OF GOD"
+        },
+        {
+            "id":2,
+            "question":"How many months was it stated that a female captive be allowed to mourn her father and mother? (Deuteronomy 21:13)",
+            "answer":"1 month"
+        },
+        {
+            "id":3,
+            "question":"What portion of a man's properties were to be given to his firstborn son, regardless of if his mother was loved or unloved?(Deuteronomy 21:15-17)",
+            "answer":"A DOUBLE PORTION OF ALL THAT HE HAS"
+        },
+        {
+            "id":4,
+            "question":"What was to happen to a stubborn and rebellious son who was reported by his parents to the elders of the city? (Deuteronomy 21:20-21)",
+            "answer":"ALL THE MEN OF THE CITY SHALL STONE HIM TO DEATH"
+        },
+        {
+            "id":5,
+            "question":"The body of a man hung on a tree should be allowed to stay the night and be brought down by morning. TRUE/FALSE (Deuteronomy 21:22-23)",
+            "answer":"FALSE"
+        },
+        {
+            "id":6,
+            "question":"Complete the passage: His body shall not remain overnight on the tree, but you shall surely bury him that day, so that you do not defile the land which the LORD your God is giving you as an inheritance; for he who is hanged is ___ of God. (Deuteronomy 21:23)",
+            "answer":"Accursed"
+        },
+        {
+            "id":7,
+            "question":"What are you to do when you see your brother's sheep or ox going astray? (Deuteronomy 22:1)",
+            "answer":"YOU SHALL BRING THEM BACK TO YOUR BROTHER"
+        },
+        {
+            "id":8,
+            "question":"When you see a bird's nest with young ones or eggs with the mother, which shall you let go? (Deuteronomy 22:6-7)",
+            "answer":"THE MOTHER"
+        },
+        {
+            "id":9,
+            "question":"What reason was stated for making a parapet for the roof of a newly built house? (Deuteronomy 22:8)",
+            "answer":"THAT YOU MAY NOT BRING GUILT OF BLOODSHED ON YOUR HOUSEHOLD IF ANYONE FALLS FROM IT"
+        },
+        {
+            "id":10,
+            "question":"Based on the law, oxen and donkey were to be plowed together. TRUE/FALSE (Deuteronomy 22:10)",
+            "answer":"FALSE"
+        },
+        {
+            "id":11,
+            "question":"A man who had falsely accused his wife of not being a virgin before marriage can never divorce her. TRUE/FALSE (Deuteronomy 22:19)",
+            "answer":"TRUE"
+        },
+        {
+            "id":12,
+            "question":"What was the punishment of a woman who if found guilty of playing harlot in her father's house? (Deuteronomy 22:20)",
+            "answer":"SHE WOULD BE STONED TO DEATH"
+        },
+        {
+            "id":13,
+            "question":"What is the fine to be paid by a man who falsely accused his wife of shameful conduct? (Deuteronomy 22:19)",
+            "answer":"100 shekels of silver"
+        },
+        {
+            "id": 14,
+            "question": "Which Gospel records the transfiguration of Jesus on the mountain? (Matthew 17:1-13)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 15,
+            "question": "Who betrayed Jesus, leading to his arrest? (Matthew 26:14-16)",
+            "answer": "Judas Iscariot."
+          },
+          {
+            "id": 16,
+            "question": "In which Gospel does Jesus walk on water? (Matthew 14:22-33)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 17,
+            "question": "What is the significance of Jesus turning water into wine at the wedding in Cana? (John 2:1-11)",
+            "answer": "It was Jesus' first public miracle, revealing his divine power."
+          },
+          {
+            "id": 18,
+            "question": "According to Luke, what did Jesus say when he began his public ministry in the synagogue in Nazareth? (Luke 4:16-21)",
+            "answer": "He read from the scroll of Isaiah and declared that the prophecy was fulfilled in him."
+          },
+          {
+            "id": 19,
+            "question": "Who denied Jesus three times before the rooster crowed? (Matthew 26:69-75)",
+            "answer": "Peter."
+          },
+          {
+            "id": 20,
+            "question": "In which Gospel does Jesus feed the five thousand with five loaves and two fish? (Matthew 14:13-21)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 21,
+            "question": "What did Jesus say is the greatest commandment? (Matthew 22:34-40)",
+            "answer": "Love the Lord your God with all your heart, soul, and mind, and love your neighbor as yourself."
+          },
+          {
+            "id": 22,
+            "question": "In the Gospel of John, what did Jesus say about being the Good Shepherd? (John 10:1-18)",
+            "answer": "He is the Good Shepherd who lays down his life for his sheep."
+          },
+          {
+            "id": 23,
+            "question": "Who challenged Jesus with the question, 'Who is my neighbor?' (Luke 10:25-37)",
+            "answer": "A lawyer."
+          },
+          {
+            "id": 24,
+            "question": "In the Gospel of John, what did Jesus do when he found people selling goods in the temple? (John 2:13-22)",
+            "answer": "He drove out the merchants and overturned the tables."
+          },
+          {
+            "id": 25,
+            "question": "What is the story of the woman at the well, and in which Gospel is it found? (John 4:1-42)",
+            "answer": "Jesus meets a Samaritan woman at a well, revealing himself as the living water. Found in the Gospel of John."
+          },
+          {
+            "id": 26,
+            "question": "In which Gospel does Jesus calm the storm on the Sea of Galilee? (Mark 4:35-41)",
+            "answer": "The Gospel of Mark."
+          },
+          {
+            "id": 27,
+            "question": "What did Jesus say to the woman caught in adultery? (John 8:1-11)",
+            "answer": "Let him who is without sin among you be the first to throw a stone at her."
+          },
+          {
+            "id": 28,
+            "question": "In the Gospel of Matthew, what did Jesus say about the kingdom of heaven using parables? (Matthew 13:1-58)",
+            "answer": "He used various parables to illustrate the nature and growth of the kingdom of heaven."
+          },
+          {
+            "id": 29,
+            "question": "Which disciple doubted Jesus' resurrection until he saw and touched the wounds? (John 20:24-29)",
+            "answer": "Thomas."
+          },
+          {
+            "id": 30,
+            "question": "What did Jesus say during the Last Supper about the bread and wine? (Matthew 26:26-30)",
+            "answer": "He instituted the Lord's Supper, stating that the bread represents his body and the wine his blood."
+          },
+          {
+            "id": 31,
+            "question": "Which Gospel records Jesus washing the disciples' feet? (John 13:1-17)",
+            "answer": "The Gospel of John."
+          },
+          {
+            "id": 32,
+            "question": "What did Jesus tell Nicodemus about being born again? (John 3:1-21)",
+            "answer": "Jesus tells Nicodemus that one must be born again to see the kingdom of God."
+          },
+          {
+            "id": 33,
+            "question": "In the Gospel of Mark, what did Jesus say is the greatest commandment? (Mark 12:28-34)",
+            "answer": "Love God with all your heart, soul, mind, and strength, and love your neighbor as yourself."
+          },
+          {
+            "id": 34,
+            "question": "Which Gospel contains the story of the rich young ruler who asked Jesus about inheriting eternal life? (Mark 10:17-31)",
+            "answer": "The Gospel of Mark."
+          },
+          {
+            "id": 35,
+            "question": "What did Jesus say about the mustard seed and the kingdom of God? (Matthew 13:31-32)",
+            "answer": "The mustard seed, though small, grows into a large tree, representing the growth of God's kingdom."
+          },
+          {
+            "id": 36,
+            "question": "In the Gospel of John, what did Jesus do when he found merchants in the temple? (John 2:13-22)",
+            "answer": "He drove out the merchants and overturned the tables."
+          },
+          {
+            "id": 37,
+            "question": "What is the significance of Jesus' conversation with the Samaritan woman at the well? (John 4:1-42)",
+            "answer": "Jesus meets a Samaritan woman at a well, revealing himself as the living water."
+          },
+          {
+            "id":38,
+            "question":"Complete the sentence; So you shall put away guilt of innocent blood from among you when you do _________ (Deuteronomy 21:9)",
+            "answer":"WHAT IS RIGHT IN THE SIGHT OF GOD"
+        },
+        {
+            "id":39,
+            "question":"How many months was it stated that a female captive be allowed to mourn her father and mother? (Deuteronomy 21:13)",
+            "answer":"1 month"
+        },
+        {
+            "id":40,
+            "question":"What portion of a man's properties were to be given to his firstborn son, regardless of if his mother was loved or unloved?(Deuteronomy 21:15-17)",
+            "answer":"A DOUBLE PORTION OF ALL THAT HE HAS"
+        },
+        {
+            "id":41,
+            "question":"What was to happen to a stubborn and rebellious son who was reported by his parents to the elders of the city? (Deuteronomy 21:20-21)",
+            "answer":"ALL THE MEN OF THE CITY SHALL STONE HIM TO DEATH"
+        },
+        {
+            "id":42,
+            "question":"The body of a man hung on a tree should be allowed to stay the night and be brought down by morning. TRUE/FALSE (Deuteronomy 21:22-23)",
+            "answer":"FALSE"
+        },
+        {
+            "id":43,
+            "question":"Complete the passage: His body shall not remain overnight on the tree, but you shall surely bury him that day, so that you do not defile the land which the LORD your God is giving you as an inheritance; for he who is hanged is ___ of God. (Deuteronomy 21:23)",
+            "answer":"Accursed"
+        },
+        {
+            "id":44,
+            "question":"What are you to do when you see your brother's sheep or ox going astray? (Deuteronomy 22:1)",
+            "answer":"YOU SHALL BRING THEM BACK TO YOUR BROTHER"
+        },
+        {
+            "id":45,
+            "question":"When you see a bird's nest with young ones or eggs with the mother, which shall you let go? (Deuteronomy 22:6-7)",
+            "answer":"THE MOTHER"
+        },
+        {
+            "id":46,
+            "question":"What reason was stated for making a parapet for the roof of a newly built house? (Deuteronomy 22:8)",
+            "answer":"THAT YOU MAY NOT BRING GUILT OF BLOODSHED ON YOUR HOUSEHOLD IF ANYONE FALLS FROM IT"
+        },
+        {
+            "id":47,
+            "question":"Based on the law, oxen and donkey were to be plowed together. TRUE/FALSE (Deuteronomy 22:10)",
+            "answer":"FALSE"
+        },
+        {
+            "id":48,
+            "question":"A man who had falsely accused his wife of not being a virgin before marriage can never divorce her. TRUE/FALSE (Deuteronomy 22:19)",
+            "answer":"TRUE"
+        },
+        {
+            "id":49,
+            "question":"What was the punishment of a woman who if found guilty of playing harlot in her father's house? (Deuteronomy 22:20)",
+            "answer":"SHE WOULD BE STONED TO DEATH"
+        },
+        {
+            "id":50,
+            "question":"What is the fine to be paid by a man who falsely accused his wife of shameful conduct? (Deuteronomy 22:19)",
+            "answer":"100 shekels of silver"
+        },
+        {
+            "id": 51,
+            "question": "Which Gospel records the transfiguration of Jesus on the mountain? (Matthew 17:1-13)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 52,
+            "question": "Who betrayed Jesus, leading to his arrest? (Matthew 26:14-16)",
+            "answer": "Judas Iscariot."
+          },
+          {
+            "id": 53,
+            "question": "In which Gospel does Jesus walk on water? (Matthew 14:22-33)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 54,
+            "question": "What is the significance of Jesus turning water into wine at the wedding in Cana? (John 2:1-11)",
+            "answer": "It was Jesus' first public miracle, revealing his divine power."
+          },
+          {
+            "id": 55,
+            "question": "According to Luke, what did Jesus say when he began his public ministry in the synagogue in Nazareth? (Luke 4:16-21)",
+            "answer": "He read from the scroll of Isaiah and declared that the prophecy was fulfilled in him."
+          },
+          {
+            "id": 56,
+            "question": "Who denied Jesus three times before the rooster crowed? (Matthew 26:69-75)",
+            "answer": "Peter."
+          },
+          {
+            "id": 57,
+            "question": "In which Gospel does Jesus feed the five thousand with five loaves and two fish? (Matthew 14:13-21)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 58,
+            "question": "What did Jesus say is the greatest commandment? (Matthew 22:34-40)",
+            "answer": "Love the Lord your God with all your heart, soul, and mind, and love your neighbor as yourself."
+          },
+          {
+            "id": 59,
+            "question": "In the Gospel of John, what did Jesus say about being the Good Shepherd? (John 10:1-18)",
+            "answer": "He is the Good Shepherd who lays down his life for his sheep."
+          },
+          {
+            "id": 60,
+            "question": "Who challenged Jesus with the question, 'Who is my neighbor?' (Luke 10:25-37)",
+            "answer": "A lawyer."
+          },
+          {
+            "id": 61,
+            "question": "In the Gospel of John, what did Jesus do when he found people selling goods in the temple? (John 2:13-22)",
+            "answer": "He drove out the merchants and overturned the tables."
+          },
+          {
+            "id": 62,
+            "question": "What is the story of the woman at the well, and in which Gospel is it found? (John 4:1-42)",
+            "answer": "Jesus meets a Samaritan woman at a well, revealing himself as the living water. Found in the Gospel of John."
+          },
+          {
+            "id": 63,
+            "question": "In which Gospel does Jesus calm the storm on the Sea of Galilee? (Mark 4:35-41)",
+            "answer": "The Gospel of Mark."
+          },
+          {
+            "id": 64,
+            "question": "What did Jesus say to the woman caught in adultery? (John 8:1-11)",
+            "answer": "Let him who is without sin among you be the first to throw a stone at her."
+          },
+          {
+            "id": 65,
+            "question": "In the Gospel of Matthew, what did Jesus say about the kingdom of heaven using parables? (Matthew 13:1-58)",
+            "answer": "He used various parables to illustrate the nature and growth of the kingdom of heaven."
+          },
+          {
+            "id": 66,
+            "question": "Which disciple doubted Jesus' resurrection until he saw and touched the wounds? (John 20:24-29)",
+            "answer": "Thomas."
+          },
+          {
+            "id": 67,
+            "question": "What did Jesus say during the Last Supper about the bread and wine? (Matthew 26:26-30)",
+            "answer": "He instituted the Lord's Supper, stating that the bread represents his body and the wine his blood."
+          },
+          {
+            "id": 68,
+            "question": "Which Gospel records Jesus washing the disciples' feet? (John 13:1-17)",
+            "answer": "The Gospel of John."
+          },
+          {
+            "id": 69,
+            "question": "What did Jesus tell Nicodemus about being born again? (John 3:1-21)",
+            "answer": "Jesus tells Nicodemus that one must be born again to see the kingdom of God."
+          },
+          {
+            "id": 70,
+            "question": "In the Gospel of Mark, what did Jesus say is the greatest commandment? (Mark 12:28-34)",
+            "answer": "Love God with all your heart, soul, mind, and strength, and love your neighbor as yourself."
+          },
+          {
+            "id": 71,
+            "question": "Which Gospel contains the story of the rich young ruler who asked Jesus about inheriting eternal life? (Mark 10:17-31)",
+            "answer": "The Gospel of Mark."
+          },
+          {
+            "id": 72,
+            "question": "What did Jesus say about the mustard seed and the kingdom of God? (Matthew 13:31-32)",
+            "answer": "The mustard seed, though small, grows into a large tree, representing the growth of God's kingdom."
+          },
+          {
+            "id": 73,
+            "question": "In the Gospel of John, what did Jesus do when he found merchants in the temple? (John 2:13-22)",
+            "answer": "He drove out the merchants and overturned the tables."
+          },
+          {
+            "id": 74,
+            "question": "What is the significance of Jesus' conversation with the Samaritan woman at the well? (John 4:1-42)",
+            "answer": "Jesus meets a Samaritan woman at a well, revealing himself as the living water."
+          },
+          {
+            "id":75,
+            "question":"Complete the sentence; So you shall put away guilt of innocent blood from among you when you do _________ (Deuteronomy 21:9)",
+            "answer":"WHAT IS RIGHT IN THE SIGHT OF GOD"
+        },
+        {
+            "id":76,
+            "question":"How many months was it stated that a female captive be allowed to mourn her father and mother? (Deuteronomy 21:13)",
+            "answer":"1 month"
+        },
+        {
+            "id":77,
+            "question":"What portion of a man's properties were to be given to his firstborn son, regardless of if his mother was loved or unloved?(Deuteronomy 21:15-17)",
+            "answer":"A DOUBLE PORTION OF ALL THAT HE HAS"
+        },
+        {
+            "id":78,
+            "question":"What was to happen to a stubborn and rebellious son who was reported by his parents to the elders of the city? (Deuteronomy 21:20-21)",
+            "answer":"ALL THE MEN OF THE CITY SHALL STONE HIM TO DEATH"
+        },
+        {
+            "id":79,
+            "question":"The body of a man hung on a tree should be allowed to stay the night and be brought down by morning. TRUE/FALSE (Deuteronomy 21:22-23)",
+            "answer":"FALSE"
+        },
+        {
+            "id":80,
+            "question":"Complete the passage: His body shall not remain overnight on the tree, but you shall surely bury him that day, so that you do not defile the land which the LORD your God is giving you as an inheritance; for he who is hanged is ___ of God. (Deuteronomy 21:23)",
+            "answer":"Accursed"
+        },
+        {
+            "id":81,
+            "question":"What are you to do when you see your brother's sheep or ox going astray? (Deuteronomy 22:1)",
+            "answer":"YOU SHALL BRING THEM BACK TO YOUR BROTHER"
+        },
+        {
+            "id":82,
+            "question":"When you see a bird's nest with young ones or eggs with the mother, which shall you let go? (Deuteronomy 22:6-7)",
+            "answer":"THE MOTHER"
+        },
+        {
+            "id":83,
+            "question":"What reason was stated for making a parapet for the roof of a newly built house? (Deuteronomy 22:8)",
+            "answer":"THAT YOU MAY NOT BRING GUILT OF BLOODSHED ON YOUR HOUSEHOLD IF ANYONE FALLS FROM IT"
+        },
+        {
+            "id":84,
+            "question":"Based on the law, oxen and donkey were to be plowed together. TRUE/FALSE (Deuteronomy 22:10)",
+            "answer":"FALSE"
+        },
+        {
+            "id":85,
+            "question":"A man who had falsely accused his wife of not being a virgin before marriage can never divorce her. TRUE/FALSE (Deuteronomy 22:19)",
+            "answer":"TRUE"
+        },
+        {
+            "id":86,
+            "question":"What was the punishment of a woman who if found guilty of playing harlot in her father's house? (Deuteronomy 22:20)",
+            "answer":"SHE WOULD BE STONED TO DEATH"
+        },
+        {
+            "id":87,
+            "question":"What is the fine to be paid by a man who falsely accused his wife of shameful conduct? (Deuteronomy 22:19)",
+            "answer":"100 shekels of silver"
+        },
+        {
+            "id": 88,
+            "question": "Which Gospel records the transfiguration of Jesus on the mountain? (Matthew 17:1-13)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 89,
+            "question": "Who betrayed Jesus, leading to his arrest? (Matthew 26:14-16)",
+            "answer": "Judas Iscariot."
+          },
+          {
+            "id": 90,
+            "question": "In which Gospel does Jesus walk on water? (Matthew 14:22-33)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 91,
+            "question": "What is the significance of Jesus turning water into wine at the wedding in Cana? (John 2:1-11)",
+            "answer": "It was Jesus' first public miracle, revealing his divine power."
+          },
+          {
+            "id": 92,
+            "question": "According to Luke, what did Jesus say when he began his public ministry in the synagogue in Nazareth? (Luke 4:16-21)",
+            "answer": "He read from the scroll of Isaiah and declared that the prophecy was fulfilled in him."
+          },
+          {
+            "id": 93,
+            "question": "Who denied Jesus three times before the rooster crowed? (Matthew 26:69-75)",
+            "answer": "Peter."
+          },
+          {
+            "id": 94,
+            "question": "In which Gospel does Jesus feed the five thousand with five loaves and two fish? (Matthew 14:13-21)",
+            "answer": "The Gospel of Matthew."
+          },
+          {
+            "id": 95,
+            "question": "What did Jesus say is the greatest commandment? (Matthew 22:34-40)",
+            "answer": "Love the Lord your God with all your heart, soul, and mind, and love your neighbor as yourself."
+          },
+          {
+            "id": 96,
+            "question": "In the Gospel of John, what did Jesus say about being the Good Shepherd? (John 10:1-18)",
+            "answer": "He is the Good Shepherd who lays down his life for his sheep."
+          },
+          {
+            "id": 97,
+            "question": "Who challenged Jesus with the question, 'Who is my neighbor?' (Luke 10:25-37)",
+            "answer": "A lawyer."
+          },
+          {
+            "id": 98,
+            "question": "In the Gospel of John, what did Jesus do when he found people selling goods in the temple? (John 2:13-22)",
+            "answer": "He drove out the merchants and overturned the tables."
+          },
+          {
+            "id": 99,
+            "question": "What is the story of the woman at the well, and in which Gospel is it found? (John 4:1-42)",
+            "answer": "Jesus meets a Samaritan woman at a well, revealing himself as the living water. Found in the Gospel of John."
+          },
+          {
+            "id": 100,
+            "question": "In which Gospel does Jesus calm the storm on the Sea of Galilee? (Mark 4:35-41)",
+            "answer": "The Gospel of Mark."
+          }
+    ]
+}
