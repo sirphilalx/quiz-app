@@ -7,11 +7,7 @@ const NavJ = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid container">
           <a className="navbar-brand d-flex  align-items-center" href="#">
-            {/* <img
-              src="./src/assets/cadenceAcademyLogo.png"
-              alt=""
-              style="width:100px"
-            /> */}
+            {/* <img src="/src/assets/jbq_logo.png" alt="" style="width:100px" /> */}
             {/* <p className="fs-4">COC Lawanson</p> */}
           </a>
           <button
