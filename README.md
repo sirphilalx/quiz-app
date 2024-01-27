@@ -91,6 +91,17 @@ This project is licensed under the MIT License.
 
 ```css
 
-Feel free to adjust the content and structure according to your specific project details and preferences.
+Feel free to adjust the content and structure according to your specific project details and preferences
+
+
+
 
 ```
+
+### Author
+
+Name: Philemon Okpokpa
+
+GitHub: https://www.github.com/sirphilalx
+
+LinkedIn: https://www.linkedin.com/in/philemon-okpokpa/
