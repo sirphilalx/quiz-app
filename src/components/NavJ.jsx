@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const NavJ = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid container">
           <a className="navbar-brand d-flex  align-items-center" href="#">
             {/* <img src="/src/assets/jbq_logo.png" alt="" style="width:100px" /> */}
@@ -26,7 +26,7 @@ const NavJ = () => {
               <li className="nav-item">
                 <NavLink
                   to="/"
-                  className="nav-link active"
+                  className="nav-link active text-light"
                   aria-current="page"
                   href="#"
                 >
@@ -34,13 +34,17 @@ const NavJ = () => {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink to="/api/question" className="nav-link" href="#">
+                <NavLink
+                  to="/api/question"
+                  className="nav-link text-light"
+                  href="#"
+                >
                   Questions
                 </NavLink>
               </li>
               <li className="nav-item dropdown">
                 <a
-                  className="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle text-light"
                   href="#"
                   role="button"
                   data-bs-toggle="dropdown"
@@ -48,24 +52,36 @@ const NavJ = () => {
                 >
                   Screens
                 </a>
-                <ul className="dropdown-menu">
+                <ul className="dropdown-menu bg-dark">
                   <li>
-                    <NavLink className="dropdown-item" href="#">
+                    <NavLink className="dropdown-item text-light" href="#">
                       Results
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/questions" className="dropdown-item" href="#">
+                    <NavLink
+                      to="/questions"
+                      className="dropdown-item text-light"
+                      href="#"
+                    >
                       Question
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/dashboard" className="dropdown-item" href="#">
+                    <NavLink
+                      to="/dashboard"
+                      className="dropdown-item text-light"
+                      href="#"
+                    >
                       Dashboard
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/judges" className="dropdown-item" href="#">
+                    <NavLink
+                      to="/judges"
+                      className="dropdown-item text-light"
+                      href="#"
+                    >
                       Judges
                     </NavLink>
                   </li>
@@ -75,7 +91,7 @@ const NavJ = () => {
                   <li>
                     <NavLink
                       to="http://localhost:3000/Questions"
-                      className="dropdown-item"
+                      className="dropdown-item text-light"
                       href="#"
                     >
                       API
@@ -84,7 +100,7 @@ const NavJ = () => {
                 </ul>
               </li>
               <li className="nav-item">
-                <NavLink to="participants" className="nav-link">
+                <NavLink to="participants" className="nav-link text-light">
                   Participants
                 </NavLink>
               </li>
