@@ -1,0 +1,41 @@
+.donateTrigger {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  gap: 10px;
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
+
+.donateTrigger > .donateTray {
+  background-color: white;
+  border-radius: 12px;
+  position: relative;
+  /* display: none; */
+}
+.donateTrigger > .appeal {
+  display: flex;
+  color: white;
+  mix-blend-mode: exclusion;
+}
+
+.donateTrigger > .appeal > i,
+.donateTrigger > .appeal > h5 {
+  border: 1px solid white;
+}
+
+.donateTrigger > .appeal > h5 {
+  padding: 12px;
+  border-radius: 12px;
+  visibility: hidden;
+}
+.donateTrigger > .appeal:hover > h5 {
+  visibility: visible;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
