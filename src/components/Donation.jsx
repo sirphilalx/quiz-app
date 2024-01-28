@@ -15,7 +15,7 @@ const Donation = () => {
           <div className="donateTray bg-white text-black p-5 w-75">
             <header className="fs-3 text-center">Donate to JBQ</header>
             <div className="closeBtn">
-              <i class="bx bx-x bx-md"></i>
+              <i className="bx bx-x bx-md"></i>
             </div>
             <hr />
             <br />
