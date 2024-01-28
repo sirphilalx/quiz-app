@@ -9,7 +9,7 @@ const MisionVision = () => {
     setActiveTab(tab);
   };
   return (
-    <div className="wrapper bg-dark text-light p-5 vh-100">
+    <div className="wrapper bg-dark text-light p-5 min-vh-100">
       <div className="container pt-5">
         <div className="header d-flex justify-content-around  p-5">
           <h2 onClick={() => handleClick("mission")}>Mission</h2>
@@ -21,7 +21,7 @@ const MisionVision = () => {
               {/* Content for the Mission statement */}
               <h4 className="mb-5 text-center ">
                 JBQ Mission Statement <br /> <br />
-                <i class="bx bx-cloud bx-lg bx-fade-up"></i>
+                <i className="bx bx-cloud bx-lg bx-fade-up"></i>
               </h4>
               <p className="fs-5">
                 At <strong> Junior Bible Quiz (JBQ)</strong>, our mission is to
@@ -46,7 +46,7 @@ const MisionVision = () => {
               {/* Content for the Vision statement */}
               <h4 className="mb-5 text-center">
                 JBQ Vision Statement <br /> <br />{" "}
-                <i class="bx bx-rocket bx-lg bx-fade-up"></i>
+                <i className="bx bx-rocket bx-lg bx-fade-up"></i>
               </h4>
               <p className="fs-5">
                 In envisioning the future of our quiz program at{" "}
