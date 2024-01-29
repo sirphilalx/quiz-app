@@ -3,6 +3,7 @@ import NavJ from "../components/NavJ";
 import "../pages/home.css";
 import MisionVision from "../components/MisionVision";
 import Donation from "../components/Donation";
+import Gallery from "../components/Gallery";
 const QuestionDashboard = () => {
   return (
     <div>
@@ -41,6 +42,7 @@ const QuestionDashboard = () => {
           </div>
         </div>
         <MisionVision />
+        <Gallery />
       </div>
       <Donation />
     </div>
