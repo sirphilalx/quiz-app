@@ -34,7 +34,7 @@ const Donation = () => {
                 </p>
               </div>
               <br />
-              <p className="text-danger">
+              <p className="text-danger text-center">
                 <i>God bless you as you make your generous donations, </i>🙏
               </p>
             </main>
