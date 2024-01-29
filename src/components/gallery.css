@@ -1,0 +1,7 @@
+.greyscale {
+  filter: grayscale(100%);
+}
+
+.gallery-item:hover > .picture > .greyscale {
+  filter: grayscale(0%);
+}
