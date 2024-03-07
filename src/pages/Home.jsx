@@ -4,6 +4,8 @@ import "../pages/home.css";
 import MisionVision from "../components/MisionVision";
 import Donation from "../components/Donation";
 import Gallery from "../components/Gallery";
+import Faq from "../components/Faq";
+import Footer from "../components/Footer";
 const QuestionDashboard = () => {
   return (
     <div>
@@ -43,6 +45,8 @@ const QuestionDashboard = () => {
         </div>
         <MisionVision />
         <Gallery />
+        <Faq />
+        <Footer />
       </div>
       <Donation />
     </div>

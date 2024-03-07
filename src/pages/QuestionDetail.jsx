@@ -9,7 +9,7 @@ const QuestionDetail = () => {
   // declaring state variables with useState
   const [questionData, setQuestionData] = useState({});
   const [showAnswer, setShowAnswer] = useState(false);
-  const [timer, setTimer] = useState(false);
+  const [timer, setTimer] = useState(10);
 
   // fetching data from database with useEffect
   useEffect(() => {
@@ -27,8 +27,18 @@ const QuestionDetail = () => {
 
   // handles timer
   const startTimer = () => {
-    setTimer(true);
+    setTimer(10); // Reset the timer to 30 seconds
+    const countdown = setInterval(() => {
+      setTimer((prevTime) => prevTime - 1);
+    }, 1000);
+
+    setTimeout(() => {
+      clearInterval(countdown);
+      setTimer(0);
+      // Additional logic when the timer reaches 0 (e.g., display "TIME UP!")
+    }, 10000);
   };
+
   // handles the showanswer button and the answer
   const handleShowAnswer = () => {
     setShowAnswer(true);
@@ -41,7 +51,13 @@ const QuestionDetail = () => {
         <div className="d-flex align-items-center justify-content-center mt-5 p-5">
           {questionData && (
             <div className="card m-a w-75 text-center p-5 shadow">
-              {timer && <h3 className="text-danger">00:00</h3>}
+              {timer > 0 && (
+                <h3 className="text-danger">{`00:${
+                  timer < 10 ? "0" : ""
+                }${timer}`}</h3>
+              )}
+              {timer === 0 && <h3 className="text-danger">TIME UP!</h3>}
+              {/* {timer === 0 && setShowAnswer(true)} */}
               <h2 className="fs-1 ">Question {questionData.id}</h2>
               <p className="fs-4 mt-5">{questionData.question}</p>
               {showAnswer && (

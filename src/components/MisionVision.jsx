@@ -10,10 +10,14 @@ const MisionVision = () => {
   };
   return (
     <div className="wrapper bg-dark text-light p-5 min-vh-100">
-      <div className="container pt-5">
-        <div className="header d-flex justify-content-around  p-5">
-          <h2 onClick={() => handleClick("mission")}>Mission</h2>
-          <h2 onClick={() => handleClick("vision")}>Vision</h2>
+      <div className="container pt-5 active-wrapper-container">
+        <div className="header d-flex justify-content-center  active-wrapper">
+          <div className={activeTab === "mission" ? "active" : ""}>
+            <h2 onClick={() => handleClick("mission")}>Mission</h2>
+          </div>
+          <div className={activeTab === "vision" ? "active" : ""}>
+            <h2 onClick={() => handleClick("vision")}>Vision</h2>
+          </div>
         </div>
         <div className="misionVision-body d-flex justify-content-center ">
           {activeTab === "mission" && (

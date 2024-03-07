@@ -4,4 +4,59 @@
 
 h2 {
   cursor: pointer;
+
+  margin: 0 30px;
+}
+
+.active {
+  height: 100%;
+  width: 100%;
+  border-radius: 80px;
+  padding: 10px 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.active-wrapper-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-wrapper {
+  height: 100%;
+  width: 100%;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: fit-content;
+  border-radius: 80px;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.2
+  ); /* Adjust the alpha (fourth) value for transparency */
+  color: #fff; /* Set your desired text color */
+  backdrop-filter: blur(10px); /* Adjust the blur value for the glass effect */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: Add a border for better visibility */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+}
+
+.divider {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  height: 100px;
+  width: 1px;
+}
+
+.inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }

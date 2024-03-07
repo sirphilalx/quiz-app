@@ -7,6 +7,9 @@ const Donation = () => {
   const showBegging = () => {
     setShowAppeal(true);
   };
+  const closeBegging = () => {
+    setShowAppeal(false);
+  };
 
   return (
     <div>
@@ -14,7 +17,7 @@ const Donation = () => {
         {showAppeal && (
           <div className="donateTray bg-white text-black p-5 w-75">
             <header className="fs-3 text-center">Donate to JBQ</header>
-            <div className="closeBtn">
+            <div className="closeBtn" onClick={closeBegging}>
               <i className="bx bx-x bx-md"></i>
             </div>
             <hr />

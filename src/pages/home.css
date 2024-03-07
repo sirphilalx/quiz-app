@@ -31,3 +31,7 @@ h1 {
 img {
   width: 500px;
 }
+
+.link-visited {
+  background-color: grey; /* Your desired visited color */
+}

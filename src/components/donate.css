@@ -16,13 +16,13 @@
 }
 .donateTrigger > .appeal {
   display: flex;
-  color: white;
+  color: pink;
   mix-blend-mode: exclusion;
 }
 
 .donateTrigger > .appeal > i,
 .donateTrigger > .appeal > h5 {
-  border: 1px solid white;
+  border: 1px solid pink;
 }
 
 .donateTrigger > .appeal > h5 {

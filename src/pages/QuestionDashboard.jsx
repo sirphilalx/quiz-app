@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import NavJ from "../components/NavJ";
 import { Link, useNavigate } from "react-router-dom";
+import "../pages/home.css";
 
 const QuestionDashboard = () => {
   // declaring state variables with useState
@@ -43,8 +44,12 @@ const QuestionDashboard = () => {
                   <Link
                     onClick={() => LoadDetail(q.id)}
                     to={`/api/question/detail/${q.id}`}
+                    // className={`btn ${
+                    //   q.clicked ? "btn-secondary" : "btn-success"
+                    // } p-4 w-12 h-12 m-2`}
+
                     className={`btn ${
-                      q.clicked ? "btn-secondary" : "btn-success"
+                      q.clicked ? "btn-secondary link-visited" : "btn-success"
                     } p-4 w-12 h-12 m-2`}
                   >
                     {q.id}
